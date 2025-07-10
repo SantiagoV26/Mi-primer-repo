@@ -1,0 +1,12 @@
+{
+    "name": "Santiago",
+    "surname": "Vargas",
+    "age": 22,
+    "languajes": [
+        "Python",
+        "C#",
+        "Java",
+        "JavaScript"
+    ],
+    "Website": "https://www.santiagovargas.com"
+}
